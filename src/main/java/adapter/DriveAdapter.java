@@ -1,9 +1,8 @@
-package Adapter;
+package adapter;
 
 import entity.Jira;
 import services.drive.ServiceDrive;
 
-import java.io.IOException;
 import java.util.List;
 import java.util.Map;
 
